@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Droiduino Bluetooth Connection</string>
+    <string name="angle_value">Not connected</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Paramètres</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="niveaux_title">Choix du niveau</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails</string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="setting_button">Setting</string>
+    <string name="label_niveau">Niveau :</string>
+    <string name="send_button">Send</string>
+    <string name="indication_pos">Positionnez vous en arrière à 135° (légèrement penché)</string>
+    <string name="not_connected">PAS CONNECTE</string>
+    <string name="none_paired">none paired</string>
+    <string name="scanning">SCANNING</string>
+    <string name="select_device">SELECT DEVICE</string>
+    <string name="none_found">NONE FOUND</string>
+    <string name="bt_not_enabled_leaving">bt_not_enabled_leaving</string>
+    <string name="title_paired_devices">title_paired_device</string>
+    <string name="title_other_devices">title_other_devices</string>
+    <string name="button_scan">"scan "</string>
+
+</resources>
